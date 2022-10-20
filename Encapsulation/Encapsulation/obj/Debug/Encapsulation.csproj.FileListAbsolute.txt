@@ -1,0 +1,16 @@
+C:\Users\Reliance\Source\Repos\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Reliance\Source\Repos\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Reliance\Source\Repos\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Reliance\Source\Repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Reliance\Source\Repos\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
+C:\Users\Reliance\Source\Repos\C#\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\Reliance\Source\Repos\C#\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Reliance\Source\Repos\C#\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Reliance\Source\Repos\C#\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Reliance\Source\Repos\C#\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb

@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\Static_Constructor1\Static_Constructor1\bin\Debug\Static_Constructor1.exe.config
+C:\Users\Reliance\Source\Repos\Static_Constructor1\Static_Constructor1\bin\Debug\Static_Constructor1.exe
+C:\Users\Reliance\Source\Repos\Static_Constructor1\Static_Constructor1\bin\Debug\Static_Constructor1.pdb
+C:\Users\Reliance\Source\Repos\Static_Constructor1\Static_Constructor1\obj\Debug\Static_Constructor1.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Static_Constructor1\Static_Constructor1\obj\Debug\Static_Constructor1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Static_Constructor1\Static_Constructor1\obj\Debug\Static_Constructor1.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Static_Constructor1\Static_Constructor1\obj\Debug\Static_Constructor1.exe
+C:\Users\Reliance\Source\Repos\Static_Constructor1\Static_Constructor1\obj\Debug\Static_Constructor1.pdb

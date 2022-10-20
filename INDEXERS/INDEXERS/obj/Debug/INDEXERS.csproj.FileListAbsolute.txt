@@ -1,0 +1,16 @@
+C:\Users\Reliance\Source\Repos\INDEXERS\INDEXERS\bin\Debug\INDEXERS.exe.config
+C:\Users\Reliance\Source\Repos\INDEXERS\INDEXERS\bin\Debug\INDEXERS.exe
+C:\Users\Reliance\Source\Repos\INDEXERS\INDEXERS\bin\Debug\INDEXERS.pdb
+C:\Users\Reliance\Source\Repos\INDEXERS\INDEXERS\obj\Debug\INDEXERS.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\INDEXERS\INDEXERS\obj\Debug\INDEXERS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\INDEXERS\INDEXERS\obj\Debug\INDEXERS.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\INDEXERS\INDEXERS\obj\Debug\INDEXERS.exe
+C:\Users\Reliance\Source\Repos\INDEXERS\INDEXERS\obj\Debug\INDEXERS.pdb
+C:\Users\Reliance\Source\Repos\C#\INDEXERS\INDEXERS\bin\Debug\INDEXERS.exe.config
+C:\Users\Reliance\Source\Repos\C#\INDEXERS\INDEXERS\bin\Debug\INDEXERS.exe
+C:\Users\Reliance\Source\Repos\C#\INDEXERS\INDEXERS\bin\Debug\INDEXERS.pdb
+C:\Users\Reliance\Source\Repos\C#\INDEXERS\INDEXERS\obj\Debug\INDEXERS.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\INDEXERS\INDEXERS\obj\Debug\INDEXERS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\INDEXERS\INDEXERS\obj\Debug\INDEXERS.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\INDEXERS\INDEXERS\obj\Debug\INDEXERS.exe
+C:\Users\Reliance\Source\Repos\C#\INDEXERS\INDEXERS\obj\Debug\INDEXERS.pdb

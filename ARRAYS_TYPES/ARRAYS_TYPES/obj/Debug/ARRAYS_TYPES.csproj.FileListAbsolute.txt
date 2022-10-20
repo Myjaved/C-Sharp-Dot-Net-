@@ -1,0 +1,16 @@
+C:\Users\Reliance\Source\Repos\ARRAYS_TYPES\ARRAYS_TYPES\bin\Debug\ARRAYS_TYPES.exe.config
+C:\Users\Reliance\Source\Repos\ARRAYS_TYPES\ARRAYS_TYPES\bin\Debug\ARRAYS_TYPES.exe
+C:\Users\Reliance\Source\Repos\ARRAYS_TYPES\ARRAYS_TYPES\bin\Debug\ARRAYS_TYPES.pdb
+C:\Users\Reliance\Source\Repos\ARRAYS_TYPES\ARRAYS_TYPES\obj\Debug\ARRAYS_TYPES.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\ARRAYS_TYPES\ARRAYS_TYPES\obj\Debug\ARRAYS_TYPES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\ARRAYS_TYPES\ARRAYS_TYPES\obj\Debug\ARRAYS_TYPES.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\ARRAYS_TYPES\ARRAYS_TYPES\obj\Debug\ARRAYS_TYPES.exe
+C:\Users\Reliance\Source\Repos\ARRAYS_TYPES\ARRAYS_TYPES\obj\Debug\ARRAYS_TYPES.pdb
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_TYPES\ARRAYS_TYPES\bin\Debug\ARRAYS_TYPES.exe.config
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_TYPES\ARRAYS_TYPES\bin\Debug\ARRAYS_TYPES.exe
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_TYPES\ARRAYS_TYPES\bin\Debug\ARRAYS_TYPES.pdb
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_TYPES\ARRAYS_TYPES\obj\Debug\ARRAYS_TYPES.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_TYPES\ARRAYS_TYPES\obj\Debug\ARRAYS_TYPES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_TYPES\ARRAYS_TYPES\obj\Debug\ARRAYS_TYPES.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_TYPES\ARRAYS_TYPES\obj\Debug\ARRAYS_TYPES.exe
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_TYPES\ARRAYS_TYPES\obj\Debug\ARRAYS_TYPES.pdb

@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\Conditional_Statement2\Conditional_Statement2\obj\Debug\Conditional_Statement2.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Conditional_Statement2\Conditional_Statement2\obj\Debug\Conditional_Statement2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Conditional_Statement2\Conditional_Statement2\obj\Debug\Conditional_Statement2.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Conditional_Statement2\Conditional_Statement2\bin\Debug\Conditional_Statement2.exe.config
+C:\Users\Reliance\Source\Repos\Conditional_Statement2\Conditional_Statement2\bin\Debug\Conditional_Statement2.exe
+C:\Users\Reliance\Source\Repos\Conditional_Statement2\Conditional_Statement2\bin\Debug\Conditional_Statement2.pdb
+C:\Users\Reliance\Source\Repos\Conditional_Statement2\Conditional_Statement2\obj\Debug\Conditional_Statement2.exe
+C:\Users\Reliance\Source\Repos\Conditional_Statement2\Conditional_Statement2\obj\Debug\Conditional_Statement2.pdb

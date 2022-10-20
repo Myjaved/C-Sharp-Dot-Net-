@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\STATIC_CLASS\STATIC_CLASS\bin\Debug\STATIC_CLASS.exe.config
+C:\Users\Reliance\Source\Repos\STATIC_CLASS\STATIC_CLASS\bin\Debug\STATIC_CLASS.exe
+C:\Users\Reliance\Source\Repos\STATIC_CLASS\STATIC_CLASS\bin\Debug\STATIC_CLASS.pdb
+C:\Users\Reliance\Source\Repos\STATIC_CLASS\STATIC_CLASS\obj\Debug\STATIC_CLASS.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\STATIC_CLASS\STATIC_CLASS\obj\Debug\STATIC_CLASS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\STATIC_CLASS\STATIC_CLASS\obj\Debug\STATIC_CLASS.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\STATIC_CLASS\STATIC_CLASS\obj\Debug\STATIC_CLASS.exe
+C:\Users\Reliance\Source\Repos\STATIC_CLASS\STATIC_CLASS\obj\Debug\STATIC_CLASS.pdb

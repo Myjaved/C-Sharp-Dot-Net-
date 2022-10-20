@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\STATIC_PROPERTIES\STATIC_PROPERTIES\obj\Debug\STATIC_PROPERTIES.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\STATIC_PROPERTIES\STATIC_PROPERTIES\obj\Debug\STATIC_PROPERTIES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\STATIC_PROPERTIES\STATIC_PROPERTIES\obj\Debug\STATIC_PROPERTIES.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\STATIC_PROPERTIES\STATIC_PROPERTIES\bin\Debug\STATIC_PROPERTIES.exe.config
+C:\Users\Reliance\Source\Repos\STATIC_PROPERTIES\STATIC_PROPERTIES\bin\Debug\STATIC_PROPERTIES.exe
+C:\Users\Reliance\Source\Repos\STATIC_PROPERTIES\STATIC_PROPERTIES\bin\Debug\STATIC_PROPERTIES.pdb
+C:\Users\Reliance\Source\Repos\STATIC_PROPERTIES\STATIC_PROPERTIES\obj\Debug\STATIC_PROPERTIES.exe
+C:\Users\Reliance\Source\Repos\STATIC_PROPERTIES\STATIC_PROPERTIES\obj\Debug\STATIC_PROPERTIES.pdb

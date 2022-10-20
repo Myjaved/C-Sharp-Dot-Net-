@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\STRUCTURE\STRUCTURE\obj\Debug\STRUCTURE.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\STRUCTURE\STRUCTURE\obj\Debug\STRUCTURE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\STRUCTURE\STRUCTURE\obj\Debug\STRUCTURE.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\STRUCTURE\STRUCTURE\bin\Debug\STRUCTURE.exe.config
+C:\Users\Reliance\Source\Repos\STRUCTURE\STRUCTURE\bin\Debug\STRUCTURE.exe
+C:\Users\Reliance\Source\Repos\STRUCTURE\STRUCTURE\bin\Debug\STRUCTURE.pdb
+C:\Users\Reliance\Source\Repos\STRUCTURE\STRUCTURE\obj\Debug\STRUCTURE.exe
+C:\Users\Reliance\Source\Repos\STRUCTURE\STRUCTURE\obj\Debug\STRUCTURE.pdb

@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\C#\Test_Project\Test_Project\bin\Debug\Test_Project.exe.config
+C:\Users\Reliance\Source\Repos\C#\Test_Project\Test_Project\bin\Debug\Test_Project.exe
+C:\Users\Reliance\Source\Repos\C#\Test_Project\Test_Project\bin\Debug\Test_Project.pdb
+C:\Users\Reliance\Source\Repos\C#\Test_Project\Test_Project\obj\Debug\Test_Project.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\Test_Project\Test_Project\obj\Debug\Test_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\Test_Project\Test_Project\obj\Debug\Test_Project.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\Test_Project\Test_Project\obj\Debug\Test_Project.exe
+C:\Users\Reliance\Source\Repos\C#\Test_Project\Test_Project\obj\Debug\Test_Project.pdb

@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\Keywords_vardyna\Keywords_vardyna\bin\Debug\Keywords_vardyna.exe.config
+C:\Users\Reliance\Source\Repos\Keywords_vardyna\Keywords_vardyna\bin\Debug\Keywords_vardyna.exe
+C:\Users\Reliance\Source\Repos\Keywords_vardyna\Keywords_vardyna\bin\Debug\Keywords_vardyna.pdb
+C:\Users\Reliance\Source\Repos\Keywords_vardyna\Keywords_vardyna\obj\Debug\Keywords_vardyna.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Keywords_vardyna\Keywords_vardyna\obj\Debug\Keywords_vardyna.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Keywords_vardyna\Keywords_vardyna\obj\Debug\Keywords_vardyna.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Keywords_vardyna\Keywords_vardyna\obj\Debug\Keywords_vardyna.exe
+C:\Users\Reliance\Source\Repos\Keywords_vardyna\Keywords_vardyna\obj\Debug\Keywords_vardyna.pdb

@@ -1,0 +1,16 @@
+C:\Users\Reliance\Source\Repos\DELEGATES\DELEGATES\bin\Debug\DELEGATES.exe.config
+C:\Users\Reliance\Source\Repos\DELEGATES\DELEGATES\bin\Debug\DELEGATES.exe
+C:\Users\Reliance\Source\Repos\DELEGATES\DELEGATES\bin\Debug\DELEGATES.pdb
+C:\Users\Reliance\Source\Repos\DELEGATES\DELEGATES\obj\Debug\DELEGATES.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\DELEGATES\DELEGATES\obj\Debug\DELEGATES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\DELEGATES\DELEGATES\obj\Debug\DELEGATES.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\DELEGATES\DELEGATES\obj\Debug\DELEGATES.exe
+C:\Users\Reliance\Source\Repos\DELEGATES\DELEGATES\obj\Debug\DELEGATES.pdb
+C:\Users\Reliance\Source\Repos\C#\DELEGATES\DELEGATES\bin\Debug\DELEGATES.exe.config
+C:\Users\Reliance\Source\Repos\C#\DELEGATES\DELEGATES\bin\Debug\DELEGATES.exe
+C:\Users\Reliance\Source\Repos\C#\DELEGATES\DELEGATES\bin\Debug\DELEGATES.pdb
+C:\Users\Reliance\Source\Repos\C#\DELEGATES\DELEGATES\obj\Debug\DELEGATES.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\DELEGATES\DELEGATES\obj\Debug\DELEGATES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\DELEGATES\DELEGATES\obj\Debug\DELEGATES.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\DELEGATES\DELEGATES\obj\Debug\DELEGATES.exe
+C:\Users\Reliance\Source\Repos\C#\DELEGATES\DELEGATES\obj\Debug\DELEGATES.pdb

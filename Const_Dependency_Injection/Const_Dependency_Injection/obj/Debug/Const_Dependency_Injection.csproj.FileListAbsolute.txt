@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\C#\Const_Dependency_Injection\Const_Dependency_Injection\bin\Debug\Const_Dependency_Injection.exe.config
+C:\Users\Reliance\Source\Repos\C#\Const_Dependency_Injection\Const_Dependency_Injection\bin\Debug\Const_Dependency_Injection.exe
+C:\Users\Reliance\Source\Repos\C#\Const_Dependency_Injection\Const_Dependency_Injection\bin\Debug\Const_Dependency_Injection.pdb
+C:\Users\Reliance\Source\Repos\C#\Const_Dependency_Injection\Const_Dependency_Injection\obj\Debug\Const_Dependency_Injection.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\Const_Dependency_Injection\Const_Dependency_Injection\obj\Debug\Const_Dependency_Injection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\Const_Dependency_Injection\Const_Dependency_Injection\obj\Debug\Const_Dependency_Injection.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\Const_Dependency_Injection\Const_Dependency_Injection\obj\Debug\Const_Dependency_Injection.exe
+C:\Users\Reliance\Source\Repos\C#\Const_Dependency_Injection\Const_Dependency_Injection\obj\Debug\Const_Dependency_Injection.pdb

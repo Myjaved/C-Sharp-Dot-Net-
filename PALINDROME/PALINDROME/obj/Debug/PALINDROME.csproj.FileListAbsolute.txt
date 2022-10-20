@@ -1,0 +1,16 @@
+C:\Users\Reliance\Source\Repos\PALINDROME\PALINDROME\bin\Debug\PALINDROME.exe.config
+C:\Users\Reliance\Source\Repos\PALINDROME\PALINDROME\bin\Debug\PALINDROME.exe
+C:\Users\Reliance\Source\Repos\PALINDROME\PALINDROME\bin\Debug\PALINDROME.pdb
+C:\Users\Reliance\Source\Repos\PALINDROME\PALINDROME\obj\Debug\PALINDROME.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\PALINDROME\PALINDROME\obj\Debug\PALINDROME.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\PALINDROME\PALINDROME\obj\Debug\PALINDROME.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\PALINDROME\PALINDROME\obj\Debug\PALINDROME.exe
+C:\Users\Reliance\Source\Repos\PALINDROME\PALINDROME\obj\Debug\PALINDROME.pdb
+C:\Users\Reliance\Source\Repos\C#\PALINDROME\PALINDROME\bin\Debug\PALINDROME.exe.config
+C:\Users\Reliance\Source\Repos\C#\PALINDROME\PALINDROME\bin\Debug\PALINDROME.exe
+C:\Users\Reliance\Source\Repos\C#\PALINDROME\PALINDROME\bin\Debug\PALINDROME.pdb
+C:\Users\Reliance\Source\Repos\C#\PALINDROME\PALINDROME\obj\Debug\PALINDROME.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\PALINDROME\PALINDROME\obj\Debug\PALINDROME.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\PALINDROME\PALINDROME\obj\Debug\PALINDROME.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\PALINDROME\PALINDROME\obj\Debug\PALINDROME.exe
+C:\Users\Reliance\Source\Repos\C#\PALINDROME\PALINDROME\obj\Debug\PALINDROME.pdb

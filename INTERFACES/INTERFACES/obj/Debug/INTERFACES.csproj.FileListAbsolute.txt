@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\INTERFACES\INTERFACES\bin\Debug\INTERFACES.exe.config
+C:\Users\Reliance\Source\Repos\INTERFACES\INTERFACES\bin\Debug\INTERFACES.exe
+C:\Users\Reliance\Source\Repos\INTERFACES\INTERFACES\bin\Debug\INTERFACES.pdb
+C:\Users\Reliance\Source\Repos\INTERFACES\INTERFACES\obj\Debug\INTERFACES.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\INTERFACES\INTERFACES\obj\Debug\INTERFACES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\INTERFACES\INTERFACES\obj\Debug\INTERFACES.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\INTERFACES\INTERFACES\obj\Debug\INTERFACES.exe
+C:\Users\Reliance\Source\Repos\INTERFACES\INTERFACES\obj\Debug\INTERFACES.pdb

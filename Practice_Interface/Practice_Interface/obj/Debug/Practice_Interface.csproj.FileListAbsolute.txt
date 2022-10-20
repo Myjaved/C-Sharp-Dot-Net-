@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\C#\Practice_Interface\Practice_Interface\bin\Debug\Practice_Interface.exe.config
+C:\Users\Reliance\Source\Repos\C#\Practice_Interface\Practice_Interface\bin\Debug\Practice_Interface.exe
+C:\Users\Reliance\Source\Repos\C#\Practice_Interface\Practice_Interface\bin\Debug\Practice_Interface.pdb
+C:\Users\Reliance\Source\Repos\C#\Practice_Interface\Practice_Interface\obj\Debug\Practice_Interface.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\Practice_Interface\Practice_Interface\obj\Debug\Practice_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\Practice_Interface\Practice_Interface\obj\Debug\Practice_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\Practice_Interface\Practice_Interface\obj\Debug\Practice_Interface.exe
+C:\Users\Reliance\Source\Repos\C#\Practice_Interface\Practice_Interface\obj\Debug\Practice_Interface.pdb

@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\EXPLICIT_INTERFACE\EXPLICIT_INTERFACE\bin\Debug\EXPLICIT_INTERFACE.exe.config
+C:\Users\Reliance\Source\Repos\EXPLICIT_INTERFACE\EXPLICIT_INTERFACE\bin\Debug\EXPLICIT_INTERFACE.exe
+C:\Users\Reliance\Source\Repos\EXPLICIT_INTERFACE\EXPLICIT_INTERFACE\bin\Debug\EXPLICIT_INTERFACE.pdb
+C:\Users\Reliance\Source\Repos\EXPLICIT_INTERFACE\EXPLICIT_INTERFACE\obj\Debug\EXPLICIT_INTERFACE.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\EXPLICIT_INTERFACE\EXPLICIT_INTERFACE\obj\Debug\EXPLICIT_INTERFACE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\EXPLICIT_INTERFACE\EXPLICIT_INTERFACE\obj\Debug\EXPLICIT_INTERFACE.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\EXPLICIT_INTERFACE\EXPLICIT_INTERFACE\obj\Debug\EXPLICIT_INTERFACE.exe
+C:\Users\Reliance\Source\Repos\EXPLICIT_INTERFACE\EXPLICIT_INTERFACE\obj\Debug\EXPLICIT_INTERFACE.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MULTICAST_DELEGATES", "MULTICAST_DELEGATES\MULTICAST_DELEGATES.csproj", "{F2786C73-2EC1-4A04-A23C-AF1AFD65EF96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2786C73-2EC1-4A04-A23C-AF1AFD65EF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2786C73-2EC1-4A04-A23C-AF1AFD65EF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2786C73-2EC1-4A04-A23C-AF1AFD65EF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2786C73-2EC1-4A04-A23C-AF1AFD65EF96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1989DE5-CBDD-4821-9DD6-AC8FFF22B02B}
+	EndGlobalSection
+EndGlobal

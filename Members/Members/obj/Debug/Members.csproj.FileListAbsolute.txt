@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\Members\Members\bin\Debug\Members.exe.config
+C:\Users\Reliance\Source\Repos\Members\Members\bin\Debug\Members.exe
+C:\Users\Reliance\Source\Repos\Members\Members\bin\Debug\Members.pdb
+C:\Users\Reliance\Source\Repos\Members\Members\obj\Debug\Members.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Members\Members\obj\Debug\Members.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Members\Members\obj\Debug\Members.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Members\Members\obj\Debug\Members.exe
+C:\Users\Reliance\Source\Repos\Members\Members\obj\Debug\Members.pdb

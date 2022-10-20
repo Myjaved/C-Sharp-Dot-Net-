@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\type_casting\type_casting\bin\Debug\type_casting.exe.config
+C:\Users\Reliance\Source\Repos\type_casting\type_casting\bin\Debug\type_casting.exe
+C:\Users\Reliance\Source\Repos\type_casting\type_casting\bin\Debug\type_casting.pdb
+C:\Users\Reliance\Source\Repos\type_casting\type_casting\obj\Debug\type_casting.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\type_casting\type_casting\obj\Debug\type_casting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\type_casting\type_casting\obj\Debug\type_casting.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\type_casting\type_casting\obj\Debug\type_casting.exe
+C:\Users\Reliance\Source\Repos\type_casting\type_casting\obj\Debug\type_casting.pdb

@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\C#\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Reliance\Source\Repos\C#\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Reliance\Source\Repos\C#\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Reliance\Source\Repos\C#\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\Practice\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Reliance\Source\Repos\C#\Practice\Practice\obj\Debug\Practice.pdb

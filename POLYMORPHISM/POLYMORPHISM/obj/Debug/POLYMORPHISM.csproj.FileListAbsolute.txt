@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\POLYMORPHISM\POLYMORPHISM\obj\Debug\POLYMORPHISM.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\POLYMORPHISM\POLYMORPHISM\obj\Debug\POLYMORPHISM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\POLYMORPHISM\POLYMORPHISM\obj\Debug\POLYMORPHISM.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\POLYMORPHISM\POLYMORPHISM\bin\Debug\POLYMORPHISM.exe.config
+C:\Users\Reliance\Source\Repos\POLYMORPHISM\POLYMORPHISM\bin\Debug\POLYMORPHISM.exe
+C:\Users\Reliance\Source\Repos\POLYMORPHISM\POLYMORPHISM\bin\Debug\POLYMORPHISM.pdb
+C:\Users\Reliance\Source\Repos\POLYMORPHISM\POLYMORPHISM\obj\Debug\POLYMORPHISM.exe
+C:\Users\Reliance\Source\Repos\POLYMORPHISM\POLYMORPHISM\obj\Debug\POLYMORPHISM.pdb

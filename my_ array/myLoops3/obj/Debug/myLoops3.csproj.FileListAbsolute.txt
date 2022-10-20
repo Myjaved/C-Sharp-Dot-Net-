@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\my_ array\myLoops3\bin\Debug\myLoops3.exe.config
+C:\Users\Reliance\Source\Repos\my_ array\myLoops3\bin\Debug\myLoops3.exe
+C:\Users\Reliance\Source\Repos\my_ array\myLoops3\bin\Debug\myLoops3.pdb
+C:\Users\Reliance\Source\Repos\my_ array\myLoops3\obj\Debug\myLoops3.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\my_ array\myLoops3\obj\Debug\myLoops3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\my_ array\myLoops3\obj\Debug\myLoops3.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\my_ array\myLoops3\obj\Debug\myLoops3.exe
+C:\Users\Reliance\Source\Repos\my_ array\myLoops3\obj\Debug\myLoops3.pdb

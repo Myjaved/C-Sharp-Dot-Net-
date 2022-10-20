@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\ASP.NET MVC\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\Reliance\Source\Repos\ASP.NET MVC\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\Reliance\Source\Repos\ASP.NET MVC\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\Reliance\Source\Repos\ASP.NET MVC\Enum\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\ASP.NET MVC\Enum\Enum\obj\Debug\Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\ASP.NET MVC\Enum\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\ASP.NET MVC\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\Reliance\Source\Repos\ASP.NET MVC\Enum\Enum\obj\Debug\Enum.pdb

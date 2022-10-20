@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\Sealed_Method\Sealed_Method\bin\Debug\Sealed_Method.exe.config
+C:\Users\Reliance\Source\Repos\Sealed_Method\Sealed_Method\bin\Debug\Sealed_Method.exe
+C:\Users\Reliance\Source\Repos\Sealed_Method\Sealed_Method\bin\Debug\Sealed_Method.pdb
+C:\Users\Reliance\Source\Repos\Sealed_Method\Sealed_Method\obj\Debug\Sealed_Method.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Sealed_Method\Sealed_Method\obj\Debug\Sealed_Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Sealed_Method\Sealed_Method\obj\Debug\Sealed_Method.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Sealed_Method\Sealed_Method\obj\Debug\Sealed_Method.exe
+C:\Users\Reliance\Source\Repos\Sealed_Method\Sealed_Method\obj\Debug\Sealed_Method.pdb

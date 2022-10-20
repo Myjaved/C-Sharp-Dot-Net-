@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\My_cs\My_cs\bin\Debug\My_cs.exe.config
+C:\Users\Reliance\Source\Repos\My_cs\My_cs\bin\Debug\My_cs.exe
+C:\Users\Reliance\Source\Repos\My_cs\My_cs\bin\Debug\My_cs.pdb
+C:\Users\Reliance\Source\Repos\My_cs\My_cs\obj\Debug\My_cs.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\My_cs\My_cs\obj\Debug\My_cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\My_cs\My_cs\obj\Debug\My_cs.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\My_cs\My_cs\obj\Debug\My_cs.exe
+C:\Users\Reliance\Source\Repos\My_cs\My_cs\obj\Debug\My_cs.pdb

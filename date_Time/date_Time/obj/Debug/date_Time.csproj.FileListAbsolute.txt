@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\date_Time\date_Time\bin\Debug\date_Time.exe.config
+C:\Users\Reliance\Source\Repos\date_Time\date_Time\bin\Debug\date_Time.exe
+C:\Users\Reliance\Source\Repos\date_Time\date_Time\bin\Debug\date_Time.pdb
+C:\Users\Reliance\Source\Repos\date_Time\date_Time\obj\Debug\date_Time.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\date_Time\date_Time\obj\Debug\date_Time.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\date_Time\date_Time\obj\Debug\date_Time.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\date_Time\date_Time\obj\Debug\date_Time.exe
+C:\Users\Reliance\Source\Repos\date_Time\date_Time\obj\Debug\date_Time.pdb

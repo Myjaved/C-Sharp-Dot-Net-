@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\programs\programs\bin\Debug\programs.exe.config
+C:\Users\Reliance\Source\Repos\programs\programs\bin\Debug\programs.exe
+C:\Users\Reliance\Source\Repos\programs\programs\bin\Debug\programs.pdb
+C:\Users\Reliance\Source\Repos\programs\programs\obj\Debug\programs.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\programs\programs\obj\Debug\programs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\programs\programs\obj\Debug\programs.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\programs\programs\obj\Debug\programs.exe
+C:\Users\Reliance\Source\Repos\programs\programs\obj\Debug\programs.pdb

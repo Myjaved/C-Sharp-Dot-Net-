@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\Classes_Objects\Classes_Objects\bin\Debug\Classes_Objects.exe.config
+C:\Users\Reliance\Source\Repos\Classes_Objects\Classes_Objects\bin\Debug\Classes_Objects.exe
+C:\Users\Reliance\Source\Repos\Classes_Objects\Classes_Objects\bin\Debug\Classes_Objects.pdb
+C:\Users\Reliance\Source\Repos\Classes_Objects\Classes_Objects\obj\Debug\Classes_Objects.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Classes_Objects\Classes_Objects\obj\Debug\Classes_Objects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Classes_Objects\Classes_Objects\obj\Debug\Classes_Objects.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Classes_Objects\Classes_Objects\obj\Debug\Classes_Objects.exe
+C:\Users\Reliance\Source\Repos\Classes_Objects\Classes_Objects\obj\Debug\Classes_Objects.pdb

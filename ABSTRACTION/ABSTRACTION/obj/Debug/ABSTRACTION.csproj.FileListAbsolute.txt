@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\ABSTRACTION\ABSTRACTION\bin\Debug\ABSTRACTION.exe.config
+C:\Users\Reliance\Source\Repos\ABSTRACTION\ABSTRACTION\bin\Debug\ABSTRACTION.exe
+C:\Users\Reliance\Source\Repos\ABSTRACTION\ABSTRACTION\bin\Debug\ABSTRACTION.pdb
+C:\Users\Reliance\Source\Repos\ABSTRACTION\ABSTRACTION\obj\Debug\ABSTRACTION.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\ABSTRACTION\ABSTRACTION\obj\Debug\ABSTRACTION.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\ABSTRACTION\ABSTRACTION\obj\Debug\ABSTRACTION.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\ABSTRACTION\ABSTRACTION\obj\Debug\ABSTRACTION.exe
+C:\Users\Reliance\Source\Repos\ABSTRACTION\ABSTRACTION\obj\Debug\ABSTRACTION.pdb

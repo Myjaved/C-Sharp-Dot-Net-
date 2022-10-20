@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\Stack_Demo\Stack_Demo\bin\Debug\Stack_Demo.exe.config
+C:\Users\Reliance\Source\Repos\Stack_Demo\Stack_Demo\bin\Debug\Stack_Demo.exe
+C:\Users\Reliance\Source\Repos\Stack_Demo\Stack_Demo\bin\Debug\Stack_Demo.pdb
+C:\Users\Reliance\Source\Repos\Stack_Demo\Stack_Demo\obj\Debug\Stack_Demo.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Stack_Demo\Stack_Demo\obj\Debug\Stack_Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Stack_Demo\Stack_Demo\obj\Debug\Stack_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Stack_Demo\Stack_Demo\obj\Debug\Stack_Demo.exe
+C:\Users\Reliance\Source\Repos\Stack_Demo\Stack_Demo\obj\Debug\Stack_Demo.pdb

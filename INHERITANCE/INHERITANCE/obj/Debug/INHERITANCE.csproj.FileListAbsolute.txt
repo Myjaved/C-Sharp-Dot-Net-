@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\INHERITANCE\INHERITANCE\bin\Debug\INHERITANCE.exe.config
+C:\Users\Reliance\Source\Repos\INHERITANCE\INHERITANCE\bin\Debug\INHERITANCE.exe
+C:\Users\Reliance\Source\Repos\INHERITANCE\INHERITANCE\bin\Debug\INHERITANCE.pdb
+C:\Users\Reliance\Source\Repos\INHERITANCE\INHERITANCE\obj\Debug\INHERITANCE.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\INHERITANCE\INHERITANCE\obj\Debug\INHERITANCE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\INHERITANCE\INHERITANCE\obj\Debug\INHERITANCE.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\INHERITANCE\INHERITANCE\obj\Debug\INHERITANCE.exe
+C:\Users\Reliance\Source\Repos\INHERITANCE\INHERITANCE\obj\Debug\INHERITANCE.pdb

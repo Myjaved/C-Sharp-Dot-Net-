@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_USER_INPUT\ARRAYS_USER_INPUT\bin\Debug\ARRAYS_USER_INPUT.exe.config
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_USER_INPUT\ARRAYS_USER_INPUT\bin\Debug\ARRAYS_USER_INPUT.exe
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_USER_INPUT\ARRAYS_USER_INPUT\bin\Debug\ARRAYS_USER_INPUT.pdb
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_USER_INPUT\ARRAYS_USER_INPUT\obj\Debug\ARRAYS_USER_INPUT.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_USER_INPUT\ARRAYS_USER_INPUT\obj\Debug\ARRAYS_USER_INPUT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_USER_INPUT\ARRAYS_USER_INPUT\obj\Debug\ARRAYS_USER_INPUT.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_USER_INPUT\ARRAYS_USER_INPUT\obj\Debug\ARRAYS_USER_INPUT.exe
+C:\Users\Reliance\Source\Repos\C#\ARRAYS_USER_INPUT\ARRAYS_USER_INPUT\obj\Debug\ARRAYS_USER_INPUT.pdb

@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\Static_And_Intsance\Static_And_Intsance\bin\Debug\Static_And_Intsance.exe.config
+C:\Users\Reliance\Source\Repos\Static_And_Intsance\Static_And_Intsance\bin\Debug\Static_And_Intsance.exe
+C:\Users\Reliance\Source\Repos\Static_And_Intsance\Static_And_Intsance\bin\Debug\Static_And_Intsance.pdb
+C:\Users\Reliance\Source\Repos\Static_And_Intsance\Static_And_Intsance\obj\Debug\Static_And_Intsance.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Static_And_Intsance\Static_And_Intsance\obj\Debug\Static_And_Intsance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Static_And_Intsance\Static_And_Intsance\obj\Debug\Static_And_Intsance.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Static_And_Intsance\Static_And_Intsance\obj\Debug\Static_And_Intsance.exe
+C:\Users\Reliance\Source\Repos\Static_And_Intsance\Static_And_Intsance\obj\Debug\Static_And_Intsance.pdb

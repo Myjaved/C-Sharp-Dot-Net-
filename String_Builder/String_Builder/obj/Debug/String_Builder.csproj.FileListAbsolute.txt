@@ -1,0 +1,16 @@
+C:\Users\Reliance\Source\Repos\String_Builder\String_Builder\bin\Debug\String_Builder.exe.config
+C:\Users\Reliance\Source\Repos\String_Builder\String_Builder\bin\Debug\String_Builder.exe
+C:\Users\Reliance\Source\Repos\String_Builder\String_Builder\bin\Debug\String_Builder.pdb
+C:\Users\Reliance\Source\Repos\String_Builder\String_Builder\obj\Debug\String_Builder.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\String_Builder\String_Builder\obj\Debug\String_Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\String_Builder\String_Builder\obj\Debug\String_Builder.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\String_Builder\String_Builder\obj\Debug\String_Builder.exe
+C:\Users\Reliance\Source\Repos\String_Builder\String_Builder\obj\Debug\String_Builder.pdb
+C:\Users\Reliance\Source\Repos\C#\String_Builder\String_Builder\bin\Debug\String_Builder.exe.config
+C:\Users\Reliance\Source\Repos\C#\String_Builder\String_Builder\bin\Debug\String_Builder.exe
+C:\Users\Reliance\Source\Repos\C#\String_Builder\String_Builder\bin\Debug\String_Builder.pdb
+C:\Users\Reliance\Source\Repos\C#\String_Builder\String_Builder\obj\Debug\String_Builder.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\String_Builder\String_Builder\obj\Debug\String_Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\String_Builder\String_Builder\obj\Debug\String_Builder.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\String_Builder\String_Builder\obj\Debug\String_Builder.exe
+C:\Users\Reliance\Source\Repos\C#\String_Builder\String_Builder\obj\Debug\String_Builder.pdb

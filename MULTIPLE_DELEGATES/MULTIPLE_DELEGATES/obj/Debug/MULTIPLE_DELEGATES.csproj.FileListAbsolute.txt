@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\MULTIPLE_DELEGATES\MULTIPLE_DELEGATES\bin\Debug\MULTIPLE_DELEGATES.exe.config
+C:\Users\Reliance\Source\Repos\MULTIPLE_DELEGATES\MULTIPLE_DELEGATES\bin\Debug\MULTIPLE_DELEGATES.exe
+C:\Users\Reliance\Source\Repos\MULTIPLE_DELEGATES\MULTIPLE_DELEGATES\bin\Debug\MULTIPLE_DELEGATES.pdb
+C:\Users\Reliance\Source\Repos\MULTIPLE_DELEGATES\MULTIPLE_DELEGATES\obj\Debug\MULTIPLE_DELEGATES.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\MULTIPLE_DELEGATES\MULTIPLE_DELEGATES\obj\Debug\MULTIPLE_DELEGATES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\MULTIPLE_DELEGATES\MULTIPLE_DELEGATES\obj\Debug\MULTIPLE_DELEGATES.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\MULTIPLE_DELEGATES\MULTIPLE_DELEGATES\obj\Debug\MULTIPLE_DELEGATES.exe
+C:\Users\Reliance\Source\Repos\MULTIPLE_DELEGATES\MULTIPLE_DELEGATES\obj\Debug\MULTIPLE_DELEGATES.pdb

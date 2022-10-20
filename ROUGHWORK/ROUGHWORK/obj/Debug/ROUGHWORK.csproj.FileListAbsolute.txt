@@ -1,0 +1,16 @@
+C:\Users\Reliance\Source\Repos\ROUGHWORK\ROUGHWORK\bin\Debug\ROUGHWORK.exe.config
+C:\Users\Reliance\Source\Repos\ROUGHWORK\ROUGHWORK\bin\Debug\ROUGHWORK.exe
+C:\Users\Reliance\Source\Repos\ROUGHWORK\ROUGHWORK\bin\Debug\ROUGHWORK.pdb
+C:\Users\Reliance\Source\Repos\ROUGHWORK\ROUGHWORK\obj\Debug\ROUGHWORK.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\ROUGHWORK\ROUGHWORK\obj\Debug\ROUGHWORK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\ROUGHWORK\ROUGHWORK\obj\Debug\ROUGHWORK.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\ROUGHWORK\ROUGHWORK\obj\Debug\ROUGHWORK.exe
+C:\Users\Reliance\Source\Repos\ROUGHWORK\ROUGHWORK\obj\Debug\ROUGHWORK.pdb
+C:\Users\Reliance\Source\Repos\C#\ROUGHWORK\ROUGHWORK\bin\Debug\ROUGHWORK.exe.config
+C:\Users\Reliance\Source\Repos\C#\ROUGHWORK\ROUGHWORK\bin\Debug\ROUGHWORK.exe
+C:\Users\Reliance\Source\Repos\C#\ROUGHWORK\ROUGHWORK\bin\Debug\ROUGHWORK.pdb
+C:\Users\Reliance\Source\Repos\C#\ROUGHWORK\ROUGHWORK\obj\Debug\ROUGHWORK.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\ROUGHWORK\ROUGHWORK\obj\Debug\ROUGHWORK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\ROUGHWORK\ROUGHWORK\obj\Debug\ROUGHWORK.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\ROUGHWORK\ROUGHWORK\obj\Debug\ROUGHWORK.exe
+C:\Users\Reliance\Source\Repos\C#\ROUGHWORK\ROUGHWORK\obj\Debug\ROUGHWORK.pdb

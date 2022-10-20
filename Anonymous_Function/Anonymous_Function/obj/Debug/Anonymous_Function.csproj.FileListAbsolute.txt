@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\Anonymous_Function\Anonymous_Function\bin\Debug\Anonymous_Function.exe.config
+C:\Users\Reliance\Source\Repos\Anonymous_Function\Anonymous_Function\bin\Debug\Anonymous_Function.exe
+C:\Users\Reliance\Source\Repos\Anonymous_Function\Anonymous_Function\bin\Debug\Anonymous_Function.pdb
+C:\Users\Reliance\Source\Repos\Anonymous_Function\Anonymous_Function\obj\Debug\Anonymous_Function.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Anonymous_Function\Anonymous_Function\obj\Debug\Anonymous_Function.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Anonymous_Function\Anonymous_Function\obj\Debug\Anonymous_Function.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Anonymous_Function\Anonymous_Function\obj\Debug\Anonymous_Function.exe
+C:\Users\Reliance\Source\Repos\Anonymous_Function\Anonymous_Function\obj\Debug\Anonymous_Function.pdb

@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\My_C_Sharp\My_C_Sharp\bin\Debug\My_C_Sharp.exe.config
+C:\Users\Reliance\Source\Repos\My_C_Sharp\My_C_Sharp\bin\Debug\My_C_Sharp.exe
+C:\Users\Reliance\Source\Repos\My_C_Sharp\My_C_Sharp\bin\Debug\My_C_Sharp.pdb
+C:\Users\Reliance\Source\Repos\My_C_Sharp\My_C_Sharp\obj\Debug\My_C_Sharp.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\My_C_Sharp\My_C_Sharp\obj\Debug\My_C_Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\My_C_Sharp\My_C_Sharp\obj\Debug\My_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\My_C_Sharp\My_C_Sharp\obj\Debug\My_C_Sharp.exe
+C:\Users\Reliance\Source\Repos\My_C_Sharp\My_C_Sharp\obj\Debug\My_C_Sharp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\C#\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.exe.config
+C:\Users\Reliance\Source\Repos\C#\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.exe
+C:\Users\Reliance\Source\Repos\C#\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.pdb
+C:\Users\Reliance\Source\Repos\C#\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.exe
+C:\Users\Reliance\Source\Repos\C#\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.pdb

@@ -1,0 +1,16 @@
+C:\Users\Reliance\Source\Repos\SWAPPING\SWAPPING\bin\Debug\SWAPPING.exe.config
+C:\Users\Reliance\Source\Repos\SWAPPING\SWAPPING\bin\Debug\SWAPPING.exe
+C:\Users\Reliance\Source\Repos\SWAPPING\SWAPPING\bin\Debug\SWAPPING.pdb
+C:\Users\Reliance\Source\Repos\SWAPPING\SWAPPING\obj\Debug\SWAPPING.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\SWAPPING\SWAPPING\obj\Debug\SWAPPING.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\SWAPPING\SWAPPING\obj\Debug\SWAPPING.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\SWAPPING\SWAPPING\obj\Debug\SWAPPING.exe
+C:\Users\Reliance\Source\Repos\SWAPPING\SWAPPING\obj\Debug\SWAPPING.pdb
+C:\Users\Reliance\Source\Repos\C#\SWAPPING\SWAPPING\bin\Debug\SWAPPING.exe.config
+C:\Users\Reliance\Source\Repos\C#\SWAPPING\SWAPPING\bin\Debug\SWAPPING.exe
+C:\Users\Reliance\Source\Repos\C#\SWAPPING\SWAPPING\bin\Debug\SWAPPING.pdb
+C:\Users\Reliance\Source\Repos\C#\SWAPPING\SWAPPING\obj\Debug\SWAPPING.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\SWAPPING\SWAPPING\obj\Debug\SWAPPING.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\SWAPPING\SWAPPING\obj\Debug\SWAPPING.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\SWAPPING\SWAPPING\obj\Debug\SWAPPING.exe
+C:\Users\Reliance\Source\Repos\C#\SWAPPING\SWAPPING\obj\Debug\SWAPPING.pdb

@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\C#\Generic_Class\Generic_Class\bin\Debug\Generic_Class.exe.config
+C:\Users\Reliance\Source\Repos\C#\Generic_Class\Generic_Class\bin\Debug\Generic_Class.exe
+C:\Users\Reliance\Source\Repos\C#\Generic_Class\Generic_Class\bin\Debug\Generic_Class.pdb
+C:\Users\Reliance\Source\Repos\C#\Generic_Class\Generic_Class\obj\Debug\Generic_Class.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\Generic_Class\Generic_Class\obj\Debug\Generic_Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\Generic_Class\Generic_Class\obj\Debug\Generic_Class.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\Generic_Class\Generic_Class\obj\Debug\Generic_Class.exe
+C:\Users\Reliance\Source\Repos\C#\Generic_Class\Generic_Class\obj\Debug\Generic_Class.pdb

@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\C#\PassByValue_PassByRef_REF_OUT\PassByValue_PassByRef_REF_OUT\bin\Debug\PassByValue_PassByRef_REF_OUT.exe.config
+C:\Users\Reliance\Source\Repos\C#\PassByValue_PassByRef_REF_OUT\PassByValue_PassByRef_REF_OUT\bin\Debug\PassByValue_PassByRef_REF_OUT.exe
+C:\Users\Reliance\Source\Repos\C#\PassByValue_PassByRef_REF_OUT\PassByValue_PassByRef_REF_OUT\bin\Debug\PassByValue_PassByRef_REF_OUT.pdb
+C:\Users\Reliance\Source\Repos\C#\PassByValue_PassByRef_REF_OUT\PassByValue_PassByRef_REF_OUT\obj\Debug\PassByValue_PassByRef_REF_OUT.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\C#\PassByValue_PassByRef_REF_OUT\PassByValue_PassByRef_REF_OUT\obj\Debug\PassByValue_PassByRef_REF_OUT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\C#\PassByValue_PassByRef_REF_OUT\PassByValue_PassByRef_REF_OUT\obj\Debug\PassByValue_PassByRef_REF_OUT.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\C#\PassByValue_PassByRef_REF_OUT\PassByValue_PassByRef_REF_OUT\obj\Debug\PassByValue_PassByRef_REF_OUT.exe
+C:\Users\Reliance\Source\Repos\C#\PassByValue_PassByRef_REF_OUT\PassByValue_PassByRef_REF_OUT\obj\Debug\PassByValue_PassByRef_REF_OUT.pdb

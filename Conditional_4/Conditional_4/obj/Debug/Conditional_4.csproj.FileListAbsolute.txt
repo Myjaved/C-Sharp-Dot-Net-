@@ -1,0 +1,8 @@
+C:\Users\Reliance\Source\Repos\Conditional_4\Conditional_4\bin\Debug\Conditional_4.exe.config
+C:\Users\Reliance\Source\Repos\Conditional_4\Conditional_4\bin\Debug\Conditional_4.exe
+C:\Users\Reliance\Source\Repos\Conditional_4\Conditional_4\bin\Debug\Conditional_4.pdb
+C:\Users\Reliance\Source\Repos\Conditional_4\Conditional_4\obj\Debug\Conditional_4.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Conditional_4\Conditional_4\obj\Debug\Conditional_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Conditional_4\Conditional_4\obj\Debug\Conditional_4.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Conditional_4\Conditional_4\obj\Debug\Conditional_4.exe
+C:\Users\Reliance\Source\Repos\Conditional_4\Conditional_4\obj\Debug\Conditional_4.pdb

@@ -1,0 +1,12 @@
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\bin\Debug\Access_modifier2.exe.config
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\bin\Debug\Access_modifier2.exe
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\bin\Debug\Access_modifier2.pdb
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\bin\Debug\Access_Modifier.exe
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\bin\Debug\Access_Modifier.pdb
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\bin\Debug\Access_Modifier.exe.config
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\obj\Debug\Access_modifier2.csproj.AssemblyReference.cache
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\obj\Debug\Access_modifier2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\obj\Debug\Access_modifier2.csproj.CoreCompileInputs.cache
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\obj\Debug\Access_modifier2.csproj.CopyComplete
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\obj\Debug\Access_modifier2.exe
+C:\Users\Reliance\Source\Repos\Access_Modifier\Access_modifier2\obj\Debug\Access_modifier2.pdb
